@@ -1,5 +1,5 @@
 
-### Hi there 👋, Albert Holskog
+### Hi there 👋, My name is Albert Holskog
 #### Front-end Developer and Designer
 ![Front-end Developer and Designer](https://images.unsplash.com/photo-1620121478247-ec786b9be2fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80)
 
