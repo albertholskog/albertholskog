@@ -16,4 +16,10 @@ Skills:  JS / HTML / CSS / XD / Figma
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/albertholskog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AlbertEikelandHolskog/)  
 
 
-[I'm an inline-style link](https://github.com/albertholskog/Semester-Project-2)
+[My first exam in the 2 year](https://github.com/albertholskog/Semester-Project-2)
+
+[My last exam in the first year](https://github.com/albertholskog/P-Beardland)
+
+
+[Contact me on linkedin](
+https://www.linkedin.com/in/albert-eikeland-holskog/)
