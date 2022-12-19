@@ -12,6 +12,8 @@ Skills:  JS / HTML / CSS / XD / Figma
 - 🌱 I’m currently learning Learn React 
 
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/albertholskog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AlbertEikelandHolskog/)  
 
 
+[I'm an inline-style link](https://github.com/albertholskog/Semester-Project-2)
